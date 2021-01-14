@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="title_text">Your full name test!</string>
+    <string name="edit_message2">Last name</string>
+    <string name="edit_message">First name</string>
+    <string name="button_send">Results</string>
+</resources>
